@@ -47,3 +47,7 @@ Featured product photography has been replaced with clean, dedicated images, pro
 
 ## V4 Image Correction
 The eight homepage category images were replaced with dedicated, centered botanical photography and consistent image framing to prevent split/cropped visuals.
+
+
+## V5 Image Framing
+Featured product images now use dedicated photo crops with the complete item contained inside each card, minimizing clipping and empty black areas.
