@@ -43,3 +43,7 @@ Featured product photography is now dedicated, clean, and centered so product ca
 
 ## V3 Visual Correction
 Featured product photography has been replaced with clean, dedicated images, product framing is centered, and the header logo now uses a transparent circular asset so the white square around the mark is removed.
+
+
+## V4 Image Correction
+The eight homepage category images were replaced with dedicated, centered botanical photography and consistent image framing to prevent split/cropped visuals.
