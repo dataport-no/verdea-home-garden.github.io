@@ -1,0 +1,9 @@
+{
+  "name": "VERD\u00c9A Home & Garden",
+  "short_name": "VERD\u00c9A",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#183d2a",
+  "background_color": "#fbf9f4",
+  "icons": []
+}
