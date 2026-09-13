@@ -39,3 +39,7 @@ Product names, prices, ratings, reviews, availability, care information, specifi
 
 ## V2 Image Correction
 Featured product photography is now dedicated, clean, and centered so product cards do not show black placeholders or cropped page artwork.
+
+
+## V3 Visual Correction
+Featured product photography has been replaced with clean, dedicated images, product framing is centered, and the header logo now uses a transparent circular asset so the white square around the mark is removed.
