@@ -35,3 +35,7 @@ https://dataport-no.github.io/verdea-home-garden/
 
 ## Notes
 Product names, prices, ratings, reviews, availability, care information, specifications and commercial policies may be demonstration content. Verify the actual product information, plant-care guidance, materials, dimensions, safety requirements, shipping terms and third-party asset rights before commercial publication.
+
+
+## V2 Image Correction
+Featured product photography is now dedicated, clean, and centered so product cards do not show black placeholders or cropped page artwork.
